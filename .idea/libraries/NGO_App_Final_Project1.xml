@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="NGO_App_Final_Project1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/db4o-8.0.184.15484-all-java5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/simple-java-mail-5.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

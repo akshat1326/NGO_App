@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NGO_App_Final_Project">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/NGO_App_Final_Project.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

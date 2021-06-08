@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/NGO_App_Final_Project/src/Business/Enterprise/CorporateEnterprise.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/Business/Enterprise/EnterpriseDirectory.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/userinterface/HrRole/ViewParticipatingEmployeesJPanel.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/Business/Enterprise/PharmacyEnterprise.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/Business/Network/Network.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/userinterface/AdministrativeRole/ManageUserAccountJPanel.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/userinterface/HrRole/HrWorkAreaJPanel.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/userinterface/NgoAdminRole/CreateEducationWorkshopJPanel.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/userinterface/LabAssistantRole/LabAssistantWorkAreaJPanel.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/Business/Enterprise/Enterprise.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/Business/Organization/AdminOrganization.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/userinterface/ChildRole/ChildQuizJPanel.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/userinterface/NgoAdminRole/NgoAdminWorkAreaJPanel.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/userinterface/HrRole/ViewEmployeeApprovalStatusJPanel.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/Business/Organization/NgoAdminOrganization.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/userinterface/DoctorRole/CreatePrescriptionJPanel.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/Business/ConfigureASystem.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/Business/Organization/HospitalAdminOrganization.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/userintreface/PharmacistRole/PharmacistWorkAreaJPanel.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/userinterface/ManagerRole/ManagerWorkAreaJPanel.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/Business/Organization/ChildOrganization.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/userinterface/AdministrativeRole/AdminWorkAreaJPanel.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/userinterface/HrRole/PlanningEventHrJPanel.java</file>
+            <file>file:/E:/NGO_App_Final_Project/src/userinterface/NgoAdminRole/ViewQuizScoresJPanel.java</file>
+        </group>
+    </open-files>
+</project-private>

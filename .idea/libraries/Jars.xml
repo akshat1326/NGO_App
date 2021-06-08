@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/Jars/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Jars/jxbrowser-win32-6.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Jars/JTattoo-1.6.11-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Jars/jxbrowser-6.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Jars/db4o-8.0.249.16098-all-java5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Jars/jcommon-1.0.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Jars/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Jars/joda-time-2.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

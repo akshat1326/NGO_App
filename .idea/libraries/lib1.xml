@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/joda-time-2.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jxbrowser-win32-6.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/DateChooser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/twilio-7.9.1-jar-with-dependencies.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/db4o-8.0.184.15484-all-java5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/mailapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/imap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jcommon-1.0.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/swingx-all-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/djnativeswing-swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/pop3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/JTattoo-1.6.11-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jxbrowser-6.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/djnativeswing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/db4o-8.0.249.16098-all-java5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/smtp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/swt-win64-3.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/dsn.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
